@@ -11,7 +11,7 @@ Once the error is corrected, here is what we get :<br>
 ![fixed error](https://user-images.githubusercontent.com/54830918/202002780-579b2bb8-6f65-41f5-b792-5a010e6914ce.jpg)<p>
 
 How it work ?<p>
-Initially, the program will only search for positions where there are 3 or more moves with the same count value (which must be greater than or equal to the minimum threshold). Then the program will replace the value of the visit counter by 1.<p>
+Initially, the program will only search for positions where [there are 3 or more moves with the same count value](https://github.com/chris13300/exp_error_detect/blob/d11a3a302295d5cc6f21bdd332ae22509866e165/exp_error_detect/modMain.vb#L79) (which must be greater than or equal to the minimum threshold). Then the program will replace the value of the visit counter by 1.<p>
 
 command : exp_error_detect.exe your_experience_file.exp<br>
 Configure the minimum threshold for the count value.<br>
