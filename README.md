@@ -1,5 +1,5 @@
 # exp_error_detect
-Tool to detect and fix errors of experience data<p>
+Tool to detect and fix errors of experience data from an "eman-like" EXP file<p>
 
 During learning, the engine sometimes generates this kind of error :<br>
 ![error sample](https://user-images.githubusercontent.com/54830918/202002037-e74c484b-489c-4d68-b623-dfc34ebd11c1.jpg)<p>
