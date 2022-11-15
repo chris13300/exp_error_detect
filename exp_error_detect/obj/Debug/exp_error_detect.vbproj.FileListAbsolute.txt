@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exp_error_detect\exp_error_detect\bin\Debug\exp_error_detect.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exp_error_detect\exp_error_detect\bin\Debug\exp_error_detect.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exp_error_detect\exp_error_detect\bin\Debug\exp_error_detect.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exp_error_detect\exp_error_detect\bin\Debug\exp_error_detect.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exp_error_detect\exp_error_detect\obj\Debug\exp_error_detect.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exp_error_detect\exp_error_detect\obj\Debug\exp_error_detect.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exp_error_detect\exp_error_detect\obj\Debug\exp_error_detect.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exp_error_detect\exp_error_detect\obj\Debug\exp_error_detect.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exp_error_detect\exp_error_detect\obj\Debug\exp_error_detect.pdb
