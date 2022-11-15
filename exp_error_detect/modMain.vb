@@ -12,11 +12,6 @@
 
         Console.Title = My.Computer.Name
 
-        If My.Computer.FileSystem.GetFileInfo(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) & "Documents\Visual Studio 2013\Projects\exp_error_detect\exp_error_detect\bin\Debug\exp_error_detect.exe").LastWriteTime > My.Computer.FileSystem.GetFileInfo(My.Application.Info.AssemblyName & ".exe").LastWriteTime Then
-            MsgBox("Il existe une version plus récente de ce programme !", MsgBoxStyle.Information)
-            End
-        End If
-
         fileEXP = Replace(Command(), """", "")
         If Not expV2(fileEXP) Then
             MsgBox(nomFichier(fileEXP) & " <> experience format v2 !?", MsgBoxStyle.Exclamation)
